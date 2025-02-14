@@ -29,9 +29,9 @@ let unde1: undefined = undefined;
 // 리터럴 -> 값
 
 let numA: 10 = 10;
-numA = 12;
+// numA = 12;
 
 let strA: 'hello' = 'hello';
-strA = 'abc';
+// strA = 'abc';
 
-let boolA: true = false;
+// let boolA: true = false;
