@@ -2,7 +2,7 @@
 // Property Based Type System
 // 이름 => 명목적 타입 시스템
 let user: {
-  // ? -> 있어도 되고 없어도 됨. optional property. 선택적 프로퍼티
+  // ? -> 값이 있어도 되고 없어도 됨. optional property. 선택적 프로퍼티
   id?: number;
   name: string;
 } = {
