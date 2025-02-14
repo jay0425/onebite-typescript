@@ -4,7 +4,9 @@
     "module": "ESNext",
     "outDir": "dist",
     "strict": true,
-    "strictNullChecks": false,
+    // "strictNullChecks": false,
+    // 엄격한 null 검사
+    // let numA: number = null;
     "moduleDetection": "force",
     // moduleDetection 개별 모듈로
     "skipLibCheck": true
